@@ -482,7 +482,16 @@ button:hover {
     }
 
 }
-
+@media(max-width:362px)
+{
+    .map iframe{
+        width: 290px;
+    }
+}
+.map{
+    height: unset;
+    width: unsetS;
+}
 .s1-contact{
     background-image: url(../images/dce10.jpg);
    }
