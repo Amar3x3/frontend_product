@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend_product/static/css/main.8c8bb92e.css",
+    "main.css": "/frontend_product/static/css/main.95447cf8.css",
     "main.js": "/frontend_product/static/js/main.6695bc99.js",
     "static/js/27.07bc2567.chunk.js": "/frontend_product/static/js/27.07bc2567.chunk.js",
     "static/media/dce2.jpg": "/frontend_product/static/media/dce2.e3dbc59d53d188b4fc33.jpg",
@@ -47,7 +47,7 @@
     "index.html": "/frontend_product/index.html"
   },
   "entrypoints": [
-    "static/css/main.8c8bb92e.css",
+    "static/css/main.95447cf8.css",
     "static/js/main.6695bc99.js"
   ]
 }
